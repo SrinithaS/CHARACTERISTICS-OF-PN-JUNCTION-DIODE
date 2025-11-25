@@ -44,3 +44,4 @@ Model Graph:
 
 
 Result:
+Thus the forward and reverse bias characteristics of PN junction diode were obtained.

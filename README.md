@@ -19,10 +19,11 @@ MC
 6. Single strand connecting wires few
 
 Circuit Diagram:
+
+
 <img width="595" height="545" alt="image" src="https://github.com/user-attachments/assets/fa186dab-2ec5-428f-8f3c-c8d8ad319086" />
 
 PROCEDURE:
-
 i. Forward Bias condition
 1. Connect the circuit as per the given circuit diagram shown in figure:1
 2. Vary the power supply voltage in such a way that the voltmeter reading is 0.1V.
@@ -36,8 +37,19 @@ ii. Reverse bias condition
 Note the corresponding current reading in Ammeter.
 3. Repeat step-2 by increasing the voltage in steps of 1V, till 20V.
 4. Plot a graph taking the voltage (V) on X-axis and current (I) on Y-axis
+   
 Tabulation :
-<img width="538" height="403" alt="image" src="https://github.com/user-attachments/assets/a84e65bb-feef-4662-ba01-38d4302f06fe" />
+
+FORWARD BIAS:
+
+
+<img width="538" height="403" alt="image" src="Screenshot 2025-11-30 075725.png" />
+
+REVERSE BIAS:
+
+
+
+<img width="538" height="403" alt="image" src="Screenshot 2025-11-30 075706.png" />
 
 Model Graph:
 

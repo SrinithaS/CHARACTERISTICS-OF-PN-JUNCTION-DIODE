@@ -40,11 +40,14 @@ Tabulation :
 <img width="538" height="403" alt="image" src="https://github.com/user-attachments/assets/a84e65bb-feef-4662-ba01-38d4302f06fe" />
 
 Model Graph:
+
 <img width="436" height="280" alt="image" src="https://github.com/user-attachments/assets/35837165-c967-457c-aadf-efd2dfd31abc" />
 
 
 Result:
-<img width="581" height="552" alt="Forward bias" src="https://github.com/user-attachments/assets/fb0d880d-99d0-463d-a57b-692aae1710be" />
-<img width="578" height="551" alt="reverse bias" src="https://github.com/user-attachments/assets/0ddbe748-5911-4e68-a874-f03ffc53fef2" />
+
+<img width="581" height="552" alt="Forward bias" src="Screenshot 2025-09-25 135102.png" />
+
+<img width="578" height="551" alt="reverse bias" src="Screenshot 2025-09-25 140059.png" />
 
 Thus the forward and reverse bias characteristics of PN junction diode were obtained.
